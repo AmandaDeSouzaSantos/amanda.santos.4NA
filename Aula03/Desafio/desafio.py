@@ -41,3 +41,4 @@ print("F1-Score:", f1)
 
 # (Opcional) Plotando a Curva ROC e calculando a AUC para uma classe específica
 # Para problemas multiclasse, considere a abordagem "one vs. rest".
+                                
